@@ -4,7 +4,7 @@ I work on full-stack development, robotics (frc), and I'm currently learning ML
 
 ### Skills
 - Languages: Python, Typescript, C
-- Frameworks: Numpy, Pandas, Sklearn, Pytorch, React, Node, ExpressJS, Mongodb, Postgres, Vite, Playwright, Redux
+- Frameworks: Numpy, Pandas, Sklearn, Pytorch, React, Node, ExpressJS, Mongodb, Postgres, Vite, Playwright, Redux, Flask
 - Tools: Git
 - Math: Algebra I & II, Geometry, (Currently learning Calculus I, Linear Algebra, Probability & Stats)
 
