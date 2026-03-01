@@ -1,4 +1,4 @@
-# Hi im Farhan
+# Yo
 
 I work on full-stack development, robotics (frc), and I'm currently learning ML
 
