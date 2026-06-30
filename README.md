@@ -8,4 +8,4 @@ I work on full-stack development, robotics (frc), and Deep Learning research
 - Tools: Git, Comet ML
 - Math: Algebra I & II, Geometry, Calculus I (Currently learning Calculus II, Linear Algebra, Probability & Stats)
 
-Also the pfp is from oreimo u should watch it despite the name
+Also the pfp is from usogui please read it
